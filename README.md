@@ -14,7 +14,7 @@ Para rodar o projeto:
 
 ### `npm start`
 
-### Imagens do jogo
+## Imagens do jogo
 
 ![1](https://user-images.githubusercontent.com/30435099/230235569-e833234c-b2f6-4bb7-9d51-d9073177a55e.png)
 
